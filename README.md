@@ -39,7 +39,7 @@ To install files-manager, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/files-manager.git
+git clone https://github.com/JakubKorytko/files-manager.git
 ```
 
 2. Change to the project directory:
